@@ -227,6 +227,20 @@ FROM hourly_sale
 GROUP BY shift
 ```
 
+## Project Screenshots
+
+### Data Preview
+![Data](screenshots/retail_sales_data.png)
+
+### Sales on Specific Date
+![Query1](screenshots/query1_output.png)
+
+### Filtered Sales (Category & Quantity)
+![Query2](screenshots/query2_output.png)
+
+### Total Sales by Category
+![Query3](screenshots/query3_output.png)
+
 ## Findings
 - Sales are distributed across multiple product categories such as Clothing and Beauty.
 - High-value transactions indicate premium customer segments.
